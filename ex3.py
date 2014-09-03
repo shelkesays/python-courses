@@ -34,3 +34,5 @@ print "Is it greater?", 5.0 > -2.0
 print "Is is greater or equal?", 5.0 >= -2.0
 # Check 5 <= -2 => False
 print "Is it less or equal?", 5.0 <= -2.0
+
+# This is with flowting point numbers
