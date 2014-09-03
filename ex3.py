@@ -1,23 +1,36 @@
+# This like starts program by writing message
 print "I will now count my chickens:"
 
+# divide 30 / 6 , result 5. Add thet to 25, 25 + 5 => 30
 print "Hens", 25 + 30 / 6
+# Multiply 25 * 3 => 75, take modulos by 4 => 3, 100 - 3 => 97
 print "Roosters", 100 - 25 * 3 % 4
 
+# This like is again a message
 print "Now I will count eggs:"
 
+# Divide 1 / 4 => 0, 4 % 2 => 0, 3 + 2 + 1 - 5 + 0 - 0 + 6 => 7
 print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 
+# Print what are we going to check
 print "Is it true that 3 + 2 < 5 - 7?"
-
+# 3 + 2 => 5, 5 - 7 => -2, 5 < -2 => False
 print 3 + 2 < 5 - 7
 
+# Add 3 + 2 => 5
 print "What is 3 + 2?", 3 + 2
+# Subtract 5 - 7 => -2
 print "What is 5 - 7?", 5 - 7
 
+# Message
 print "oh, that's why it's False."
 
+# One more message
 print "How about some more."
 
+# Check 5 > -2 => True
 print "Is it greater?", 5 > -2
+# Check 5 >= -2 => True
 print "Is is greater or equal?", 5 >= -2
+# Check 5 <= -2 => False
 print "Is it less or equal?", 5 <= -2
