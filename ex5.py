@@ -18,3 +18,10 @@ print "If I add %d, %d, and %d I get %d." % (
     age, height, weight, age + height + weight)
 
 print "This is %r printed, no matter what!" % (weight)
+
+height_in_centimeters = 2.54 * height
+weight_in_kilos =  0.453592 * weight
+
+# this line gives centimers and kilos, try to get it exactly right
+print "If I add %d, %d, and %d I get %d." % (
+    age, height_in_centimeters, weight_in_kilos, age + height_in_centimeters + weight_in_kilos)
