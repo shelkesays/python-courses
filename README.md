@@ -1,4 +1,4 @@
-lpthw
+Learn Python The Hard Way
 =====
 
-Exercises from Learn programming the hard way
+Exercises from Learn python the hard way
