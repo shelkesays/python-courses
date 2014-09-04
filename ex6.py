@@ -31,5 +31,5 @@ w = "This is the left sode of..."
 # define varianble e with string of value assigned
 e = "a string with a right side."
 
-# print caoncatenations of variable w and e
+# print concatenations of variable w and e
 print w + e
