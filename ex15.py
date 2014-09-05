@@ -22,3 +22,7 @@ txt_again = open(file_again)
 
 # print content of file txt_again
 print txt_again.read()
+
+# close files
+txt.close()
+txt_again.close()
