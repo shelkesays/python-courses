@@ -11,3 +11,5 @@ Exercise form various courses on python including coursera, udemy, books on begi
 6. Programming for everybody by University of Machigan from Coursera
 7. Programming Languages by University of Washington from Coursera
 8. Exercises from Head First Python
+9. Exercises from Hacking Ciphers by AI Sweigart
+10. Exercises from Gray hat python by Justin Seitz
