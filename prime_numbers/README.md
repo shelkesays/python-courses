@@ -6,6 +6,7 @@ Study and propose the differences in a paper on qpeka as one of the channels.
 
 
 Referance:
+
 1. http://mathworld.wolfram.com/PrimeNumber.html
 2. http://mathworld.wolfram.com/DirectSearchFactorization.html
 3. http://mathworld.wolfram.com/PrimeFactorizationAlgorithms.html
