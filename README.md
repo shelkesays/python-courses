@@ -4,10 +4,11 @@ python-courses
 Exercise form various courses on python including coursera, udemy, books on beginner, medium, advanced, etc. levels.
 
 1. Exercises from Learn python the hard way by Zed Shaw ====> All Done
-2. Practive exercises from Flask by Example book ====> All Done
-3. Practive exercises from Byte of python ===> Currently Going
+2. Practice exercises from Flask by Example book ====> All Done
+3. Practice exercises from Byte of python ===> Currently Going
 4. Exercises from codeacademy ====> Currently Going
 5. Exercises from coding the matrix course ====> Currently Going
+6. Exercises from Dive in python
 6. Exercises from Think Python by Allen Downey
 7. Introduction to python for beginners by Alex Bowers from Udemy
 8. An Introduction to interactive programming in python by Rice University from Coursera
