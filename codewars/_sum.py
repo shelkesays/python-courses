@@ -11,7 +11,7 @@ def get_sum(a, b):
         a = a - b
     else:
         pass
-    for count in range(a, b + a):
+    for count in range(a, b + 1):
         total += count
     return total
 
