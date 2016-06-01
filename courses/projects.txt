@@ -29,3 +29,4 @@ Other Project:
 
 Reading: http://www.coderslexicon.com/recommended-reading/
 
+IMP: http://wiki.openhatch.org/Intermediate_Python_Workshop/Projects
