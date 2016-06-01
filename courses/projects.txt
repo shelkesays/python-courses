@@ -1,0 +1,31 @@
+1. Create your own command-line address-book program using which you can browse, add, modify, delete or search for your contacts such as friends, family and colleagues and their information such as emails address and/or phone number. Details must be stored for later retrieval
+
+Solution:
+
+  1. Create a class with fields like google contacts
+  2. Create a file storage using xml / json / pickle
+  3. Store, read and search through a file
+
+
+  Addition: Make it command line tool and sync with Google contacts
+
+
+2. Implement a replace command. This command will replace one string with another in the list of files provided
+
+Solution:
+  1. Simple command line tool to replace strings from a file line by line.
+  2. Regex to replace all the occurences of string in file
+  3. Recursive search through directory and replace all the occurances of a string
+
+
+Other Project:
+1. http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+2. https://github.com/karan/Projects#numbers
+3. http://rosettacode.org/wiki/Rosetta_Code
+4. https://pymotw.com/2/contents.html
+5. https://pymotw.com/3/
+6. http://pythonpracticeprojects.com/
+
+
+Reading: http://www.coderslexicon.com/recommended-reading/
+
