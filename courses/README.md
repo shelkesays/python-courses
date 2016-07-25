@@ -5,8 +5,8 @@ Exercise form various courses on python including coursera, udemy, books on begi
 
 1. Exercises from Learn python the hard way by Zed Shaw ====> All Done
 2. Practice exercises from Flask by Example book ====> All Done
-3. Practice exercises from Byte of python ===> Currently Going
-4. Exercises from codeacademy ====> Currently Going
+3. Practice exercises from Byte of python ===> All Done
+4. Exercises from codeacademy ====> All Done
 5. Exercises from coding the matrix course ====> Currently Going
 6. Exercises from Dive in python
 6. Exercises from Think Python by Allen Downey
